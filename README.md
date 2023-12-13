@@ -1,0 +1,2 @@
+# quadraticEquation
+Тестовое задание
