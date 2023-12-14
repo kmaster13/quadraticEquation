@@ -1,0 +1,6 @@
+com\example\quadraticEquation\QuadraticEquationApplication.class
+com\example\quadraticEquation\service\EquationService.class
+com\example\quadraticEquation\dto\QuadraticEquationDTO.class
+com\example\quadraticEquation\controller\EquationController.class
+com\example\quadraticEquation\model\QuadraticEquationModel.class
+com\example\quadraticEquation\repository\EquationRepository.class

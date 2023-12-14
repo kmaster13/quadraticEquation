@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://${DATASOURCE_INFO:localhost}:5444/db"
+    username: postgres
+    password: postgres
+  jpa:
+    show-sql: true
+    database-platform: "org.hibernate.dialect.PostgreSQLDialect"
+    hibernate:
+      ddl-auto: update
