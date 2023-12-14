@@ -12,3 +12,11 @@
 При разработке приложения необходимо использовать Spring, Maven, Java >8. Для работы с БД можно использовать любую ORM. Для сборки проекта нужно использовать Maven. Результаты нужно выложить на GitHub. Моменты, которые в задании явно не оговорены, можно реализовывать в соответствии с общепринятыми практиками.
 
 **Проект упакован в Docker. Метод сервиса обложены необходимыми тестами.**
+
+# Примеры работоспособности кода
+
+![image](https://github.com/kmaster13/quadraticEquation/assets/81090666/c6fd4df6-0bfa-4e7b-a5c1-17deb9339c1a)
+![image](https://github.com/kmaster13/quadraticEquation/assets/81090666/08f5c421-23d8-4adf-bf7a-b2885cc4cc3e)
+![image](https://github.com/kmaster13/quadraticEquation/assets/81090666/1f8da089-4762-4c2c-9106-848ac6d1bcac)
+
+
